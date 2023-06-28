@@ -1,2 +1,2 @@
-from PIL import Image
+from PIL import Image, ImageFilter
 from pick import pick
